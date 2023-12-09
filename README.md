@@ -1,39 +1,26 @@
-# DApp Scaffold React Native
+# Ribh
 
-## Getting Started
+A repo that allows onchain authentication through google and firebase, seamless database persistence through firestore and use of crypto transaction via Solana blockchain.
 
-This is a [React Native](https://reactnative.dev) project based on the [React Native TypeScript template](https://github.com/react-native-community/react-native-template-typescript).
+It is used for learning apps.
+
 
 ## Installation
 
 ```shell
-npm install
-# or
 yarn install
 ```
 
 ## Run the dev server (metro)
 
 ```
-npm start
-# or 
 yarn start
 ```
 
-## Run the Android app
+## Run
+
+It will by default run android on linux and ios on mac os.
 
 ```
-npm run android
-# or 
-yarn android
+yarn run dev
 ```
-
-## Run the iOS app
-
-```
-npm run ios
-# or 
-yarn ios
-```
-
-
